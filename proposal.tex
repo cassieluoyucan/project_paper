@@ -69,6 +69,19 @@ The review data set had over 8 million instances, and it is hard to load all the
 
 \section{Technical Challenge}
 
+1. contextual word and phrases homonyms. When we compare two sentences with semantic similarity; it is possible to pair two different meanings of sentences which contain the same words into one cluster. While NLP language modeling can learn different meanings and definitions, differentiating between them in context can still present problems.
+
+2. Irony and sarcasm. Language models usually interpret words or phrases, it can be positive or negative, however, in fact, the words or phrases actually connote the opposite.
+
+3. Error in text.  Misspelled or misused words can also cause problems for sentence text analysis. Although we can use grammar correction to alleviate problems, it cannot interpret the writer's intention.
+
+4. colloquialisms and slang. Informal phrases, expression, idioms, and culture-specific lingo also present problems for language modeling. Furthermore, cultural slang is constantly morphing and expanding, so new phrases and words pop up every day. It is hard for a formal language model to distinguish new words and phrases.
+
+5. Large datasets cause scale problems. For some reviews, it is too short to perform language analysis. One option to solve the problems is padding the shorter reviews or treat it as the outlier and remove it. 
+
+6. new users can also present problems. Since we need to find similar reviews and then recommend restaurants to users who share similar tastes. But since new users have no reviews yet, it cannot recommend any restaurant to them based on similarity. We can tackle this problem by implementing a data mining technical, content based analysis. 
+
+
 
 \section*{Acknowledgments}
 
