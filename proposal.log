@@ -1,0 +1,208 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.18)  18 OCT 2021 19:30
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/shuweizhang/OneDrive/Studies/USC/544/project/proposal/proposal
+(/Users/shuweizhang/OneDrive/Studies/USC/544/project/proposal/proposal.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (./acl2015.sty
+Conference Style for ACL 2015 -- released December 7, 2014
+\titlebox=\skip49
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 47.
+LaTeX Font Info:    No file TUptm.fd. on input line 47.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 47.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count183
+\l__color_backend_stack_int=\count184
+\g__color_backend_stack_int=\count185
+\g__graphics_track_int=\count186
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count187
+\g__pdf_backend_annotation_int=\count188
+\g__pdf_backend_link_int=\count189
+) (./proposal.aux)
+\openout1 = `proposal.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 47.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 48.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 48.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 48.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 48.
+LaTeX Font Info:    No file TUpcr.fd. on input line 48.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 48.
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 50--57
+\TU/ptm/m/n/10.95 tions for preparing a camera-ready
+ []
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 70.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 83.
+
+Underfull \hbox (badness 2285) in paragraph at lines 82--85
+\TU/pcr/m/n/10.95 available at $[][][][] [] [] [] [][][][][][][] [] [][][] [] [][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--130
+\TU/ptm/m/it/10.95 For the production of the electronic
+ []
+
+[1
+
+
+
+]
+Underfull \hbox (badness 5954) in paragraph at lines 145--151
+\TU/ptm/m/it/10.95 the latex preamble (directly below the
+ []
+
+
+Underfull \hbox (badness 3333) in paragraph at lines 192--195
+\TU/ptm/m/it/10.95 in the preamble. If Times Roman is
+ []
+
+[2]
+Underfull \hbox (badness 1721) in paragraph at lines 240--247
+[]\TU/ptm/m/it/10.95 The title, author names and addresses
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 295--296
+[]\TU/ptm/m/it/10.95 “We previously showed (Gusfield,
+ []
+
+[3]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 331.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 331.
+
+Underfull \hbox (badness 2626) in paragraph at lines 359--368
+\TU/ptm/m/it/10.95 ready version of your paper. We will
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 359--368
+[][][] [] [][][][][][][]$\TU/ptm/m/it/10.95 ). LaTeXML has bindings
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 359--368
+\TU/ptm/m/it/10.95 for a number of L[]T[]X packages, includ-
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 359--368
+\TU/ptm/m/it/10.95 ings allow LaTeXML to render the com-
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 359--368
+\TU/ptm/m/it/10.95 the packages that are officially supported
+ []
+
+
+Underfull \hbox (badness 5696) in paragraph at lines 375--380
+\TU/ptm/m/it/10.95 It is also advised to supplement non-
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 417--420
+[]\TU/ptm/m/it/10 Association for Computing Machinery.  1983.
+ []
+
+[4]
+Underfull \hbox (badness 1077) in paragraph at lines 422--427
+\TU/ptm/m/it/10 Stockmeyer.  1981.  Alternation.  Journal
+ []
+
+[5
+
+] (./proposal.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 677 strings out of 476919
+ 12245 string characters out of 5821840
+ 322281 words of memory out of 5000000
+ 20708 multiletter control sequences out of 15000+600000
+ 408686 words of font info for 55 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 44i,9n,50p,220b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on proposal.pdf (5 pages).
