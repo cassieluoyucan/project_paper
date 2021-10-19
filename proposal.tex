@@ -33,6 +33,10 @@
 
 \author{Shuwei Zhang \\
   {\tt shuweiz@usc.edu} \\\And
+  
+  Maiqi Tang \\
+  {\tt maiqitan@usc.edu} \\\And
+  
   Second Author \\
   Affiliation / Address line 1 \\
   Affiliation / Address line 2 \\
@@ -45,6 +49,13 @@
 \maketitle
 
 \section{Project Domain \& Goals}
+This project’s goal is to give old users of Yelp restaurant recommendations based on their previous reviews posted on Yelp. 
+
+Our group picked task1-c as our project topic. The non-NLP domain algorithm we use is item-based collaborative filtering in data mining, widely used in the item recommendation system. Meanwhile, we want to enhance the user matching , which is a significant step in item-based collaborative filtering algorithms with several NLP algorithms. 
+
+The dataset we used is the dataset of user reviews on Yelp. We want to use several methods to do data cleaning and preprocessing. After that, we use these combined algorithms mentioned before to calculate the user’s review’s similarity instead of simply using the user's rating to do user matching. For example, if we found several users’ reviews are similar, then these users are matched. We would use these users’ ratings in the group and use a test dataset to calculate accuracy. Finally, we will evaluate the performance of each method in each step which would lead to the best result. And using the best combination to train our model, giving a better outcome for users.
+
+The problem we solved is the recommendation by user's rating cannot fit users' interests well. For example, if we use ratings to find a restaurant that chicken is juicy and its overall rating is exceptionally high, the system recommends it to the user. However, this user prefers chicken, which is overcooked. And we could not find a matched restaurant by rating or simple categories filter. Then we use the NLP algorithm to analyze reviews' similarity. If the recommendation system could find a restaurant's reviews that are similar to the user's old review, this restaurant can better fit the user's interest.
 
 \section{Related Work}
 
