@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.18)  18 OCT 2021 20:48
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.18)  18 OCT 2021 21:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -132,10 +132,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  671 strings out of 476919
  12153 string characters out of 5821840
- 314191 words of memory out of 5000000
+ 316191 words of memory out of 5000000
  20701 multiletter control sequences out of 15000+600000
  408686 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 44i,9n,50p,997b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,9n,50p,1239b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on proposal.pdf (1 page).
